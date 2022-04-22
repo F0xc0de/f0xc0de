@@ -1,3 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/Qwider" target="_blank">F0x</a> 
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞<a href="https://t.me/Qwider" target="_blank">𝔽𝟘𝕩</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I learn Python, HTML, Golang.</h3>
+<h3 align="center">𝓘 𝓵𝓮𝓪𝓻𝓷 𝓟𝔂𝓽𝓱𝓸𝓷, 𝓗𝓣𝓜𝓛, 𝓖𝓸𝓵𝓪𝓷𝓰.</h3>
